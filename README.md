@@ -1,4 +1,5 @@
 # Thermometer with Arduino Cloud and MKR WiFi 1010
 
 Cloud Variables list:
-temperature (READ ONLY) and humidity (READ ONLY)
+- temperature (READ ONLY) 
+- humidity (READ ONLY)
