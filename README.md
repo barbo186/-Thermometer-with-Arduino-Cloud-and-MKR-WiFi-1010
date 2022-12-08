@@ -1,7 +1,13 @@
-# Thermometer with Arduino Cloud and MKR WiFi 1010
+>Thermometer with Arduino Cloud and MKR WiFi 1010
+  
+  A DH11 sensor is used for this project.
+  ## Virtual Pin list:
+  - temperature (READ ONLY) 
+  - humidity (READ ONLY)
+  
+  ## Libraries
+  - DHT Library.
+  
+ # Author
 
-Use DHT Library!
-
-Cloud Variables list:
-- temperature (READ ONLY) 
-- humidity (READ ONLY)
+**barbo186**
