@@ -8,6 +8,4 @@
   ## Libraries
   - DHT Library.
   
- # Author
-
-**barbo186**
+**MADE BY barbo186**
